@@ -1,59 +1,121 @@
-<div align="center">
-  <img src="https://vercel.app" width="100%" alt="Header Banner" />
-</div>
+<h1 align="center">Hi there, I'm Sreecharan Challagundla 👋</h1>
 
-<div align="center">
-  <h3>🚀 Sr. Technology Architect | Multi-Cloud & Kubernetes Expert</h3>
-  <p>Engineering resilient, scalable infrastructure topologies across AWS, Azure, and GCP, specialized in Pega platforms and container orchestration.</p>
-</div>
+<h3 align="center">DevOps / Infrastructure Engineer — Kubernetes, Cloud & CI/CD</h3>
 
-<div align="center">
-  <img src="https://shields.io" alt="CKA Badge" />
-  <img src="https://shields.io" alt="Multi-Cloud Badge" />
-  <img src="https://shields.io" alt="Pega Badge" />
-</div>
-
----
-
-### 🛠️ Core Technology Ecosystem
-
-<div align="center">
-  
-| Orchestration & Containers | Cloud Providers | Automation & DevOps |
-| :---: | :---: | :---: |
-| <img src="https://shields.io" /> <br> <img src="https://shields.io" /> | <img src="https://shields.io" /> <br> <img src="https://shields.io" /> <br> <img src="https://shields.io" /> | <img src="https://shields.io" /> <br> <img src="https://shields.io" /> |
-
-</div>
+<p align="center">
+  <a href="https://github.com/SreecharanChallagundla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sreecharan-challagundla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sreecharan-challagundla/" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📊 Live Analytics & Engineering Metrics
+### 🚀 About Me
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img height="180" src="https://vercel.app" alt="Sreecharan's Github Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img height="180" src="https://vercel.app" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" valign="top">
-        <img width="100%" src="https://herokuapp.com" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+Enterprise Infrastructure Architect with deep specialization in **AWS EKS** and extensive deployment experience across multi-cloud environments (**GCP** and **Azure**). Proven track record designing and optimizing complex **Pega Kubernetes (K8s)** platforms, executing end-to-end version upgrades, and delivering dependable Level 1 operational support. Proficient in engineering robust, automated **CI/CD pipelines** via **Git** and **Spinnaker**, package management using **Helm**, and building advanced observability frameworks with **Splunk** and **AppDynamics** to transform raw telemetry into high-availability performance insights.
+
+- 🔭 Currently exploring **Forward Deployment Engineering**
+- 🌱 Learning more about **[e.g. Terraform, ArgoCD, cloud cost optimization]**
+- 📍 Based in the **USA**
+- 📫 Reach me via **LinkedIn** (see badges above)
 
 ---
 
-### 🌐 Network & Ecosystem Connect
-* **Connect on Corporate Network:** [![LinkedIn](https://shields.io)](https://linkedin.com)
-* **Engineering Focus:** Infrastructure Resiliency, Cloud Native Automation, Kubernetes Fleet Management
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Cloud, Containers & Orchestration**
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/k9s-1E90FF?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
+
+**CI/CD & DevOps Tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square&logo=spinnaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Monitoring**
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
 
 ---
-<div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</div>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SreecharanChallagundla&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreecharanChallagundla&layout=compact&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreecharanChallagundla&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreecharanChallagundla&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SreecharanChallagundla&theme=flat&no-frame=true&column=7&margin-w=10" />
+</p>
+
+---
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/SreecharanChallagundla/iRIMS">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SreecharanChallagundla&repo=iRIMS&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/SreecharanChallagundla/pega-helm-charts">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SreecharanChallagundla&repo=pega-helm-charts&theme=default&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SreecharanChallagundla/kubectl-plugins">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SreecharanChallagundla&repo=kubectl-plugins&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/SreecharanChallagundla/k9s">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SreecharanChallagundla&repo=k9s&theme=default&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SreecharanChallagundla&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect!</i></p>
