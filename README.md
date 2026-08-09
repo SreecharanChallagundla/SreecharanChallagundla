@@ -1,52 +1,59 @@
-# 👋 Hi, I'm Sreecharan Challagundla
-**Sr. Technology Architect | Multi-Cloud & Kubernetes Specialist** 
+<div align="center">
+  <img src="https://vercel.app" width="100%" alt="Header Banner" />
+</div>
 
-Expert in designing and orchestrating high-availability multi-cloud capabilities with a heavy focus on enterprise systems (Pega) and containerized workflows (k8s). 
+<div align="center">
+  <h3>🚀 Sr. Technology Architect | Multi-Cloud & Kubernetes Expert</h3>
+  <p>Engineering resilient, scalable infrastructure topologies across AWS, Azure, and GCP, specialized in Pega platforms and container orchestration.</p>
+</div>
 
----
-
-### 🚀 Core Expertise & Certifications
-- **Cloud Native Infrastructure:** CKA (Certified Kubernetes Administrator)
-- **Architecture Paradigms:** Multi-Cloud Deployment, High Availability, Orchestration
-- **Enterprise Engineering:** Pega Systems on Cloud Infrastructure
-
----
-
-### 🛠️ Technology Stack & Tooling
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Kubernetes" />
-      <br />Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://icons8.com" width="48" height="48" alt="GCP" />
-      <br />GCP
-    </td>
-    <td align="center" width="96">
-      <img src="https://icons8.com" width="48" height="48" alt="AWS" />
-      <br />AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://icons8.com" width="48" height="48" alt="Azure" />
-      <br />Azure
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://shields.io" alt="CKA Badge" />
+  <img src="https://shields.io" alt="Multi-Cloud Badge" />
+  <img src="https://shields.io" alt="Pega Badge" />
+</div>
 
 ---
 
-### 📊 Real-Time GitHub Metrics
+### 🛠️ Core Technology Ecosystem
 
-Here is a live look at my developer activity metrics:
+<div align="center">
+  
+| Orchestration & Containers | Cloud Providers | Automation & DevOps |
+| :---: | :---: | :---: |
+| <img src="https://shields.io" /> <br> <img src="https://shields.io" /> | <img src="https://shields.io" /> <br> <img src="https://shields.io" /> <br> <img src="https://shields.io" /> | <img src="https://shields.io" /> <br> <img src="https://shields.io" /> |
 
-![Sreecharan's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+</div>
 
 ---
 
-### 🌐 Let's Connect & Collaborate
-- **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/sreecharan-challagundla/)
-- **Target Fields:** Infrastructure Automation, Pega Modernization, Cloud Governance
+### 📊 Live Analytics & Engineering Metrics
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img height="180" src="https://vercel.app" alt="Sreecharan's Github Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img height="180" src="https://vercel.app" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2" valign="top">
+        <img width="100%" src="https://herokuapp.com" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🌐 Network & Ecosystem Connect
+* **Connect on Corporate Network:** [![LinkedIn](https://shields.io)](https://linkedin.com)
+* **Engineering Focus:** Infrastructure Resiliency, Cloud Native Automation, Kubernetes Fleet Management
+
+---
+<div align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</div>
