@@ -70,16 +70,16 @@ Enterprise Infrastructure Architect with deep specialization in **AWS EKS** and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SreecharanChallagundla&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreecharanChallagundla&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SreecharanChallagundla&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&disable_animations=false" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SreecharanChallagundla&layout=compact&hide_border=true&theme=radical&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreecharanChallagundla&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreecharanChallagundla&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreecharanChallagundla&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreecharanChallagundla&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Enterprise Infrastructure Architect with deep specialization in **AWS EKS** and 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SreecharanChallagundla&theme=flat&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SreecharanChallagundla&theme=radical&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -96,19 +96,19 @@ Enterprise Infrastructure Architect with deep specialization in **AWS EKS** and 
 
 <p align="center">
   <a href="https://github.com/SreecharanChallagundla/iRIMS">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SreecharanChallagundla&repo=iRIMS&theme=default&hide_border=true" />
+    <img height="150em" src="https://github-stats-extended.vercel.app/api/pin/?username=SreecharanChallagundla&repo=iRIMS&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/SreecharanChallagundla/pega-helm-charts">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SreecharanChallagundla&repo=pega-helm-charts&theme=default&hide_border=true" />
+    <img height="150em" src="https://github-stats-extended.vercel.app/api/pin/?username=SreecharanChallagundla&repo=pega-helm-charts&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SreecharanChallagundla/kubectl-plugins">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SreecharanChallagundla&repo=kubectl-plugins&theme=default&hide_border=true" />
+    <img height="150em" src="https://github-stats-extended.vercel.app/api/pin/?username=SreecharanChallagundla&repo=kubectl-plugins&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/SreecharanChallagundla/k9s">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SreecharanChallagundla&repo=k9s&theme=default&hide_border=true" />
+    <img height="150em" src="https://github-stats-extended.vercel.app/api/pin/?username=SreecharanChallagundla&repo=k9s&theme=radical&hide_border=true" />
   </a>
 </p>
 
